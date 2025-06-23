@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #efdc2be4;
+  color: #333;
+}
+td{
+color:blue;
+  font-weight: bold;
+  
+}
+th{
+  color: #334ae1;
+  background-color: #333;
+  padding: 0.5rem;
+  text-align: center;
+}
